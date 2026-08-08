@@ -349,6 +349,13 @@ In this lecture, we learned how to build an AI-powered knowledge management syst
 
 **Building an Agentic AI Knowledge Base using Obsidian, Digital Garden, GitHub, Vercel, and API Tokens**
 
+# OBSIDIAN = NOTES
+# VERCEL=FOR PUBLISHING THE NOTES ONLINE AND MAKING THEM AVAILABLE TO EVERYONE.
+
+
+# GITHUB= FOR SAVING THE FILES.
+ 
+
 ---
 
  Obsidian is a note-taking application based on Markdown files.
